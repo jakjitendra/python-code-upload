@@ -11,3 +11,4 @@ pytest
 reportlab
 requests
 ruff
+jitu
